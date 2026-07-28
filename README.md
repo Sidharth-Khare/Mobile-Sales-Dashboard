@@ -8,10 +8,7 @@ This Power BI dashboard provides a detailed analysis of mobile device sales, rev
 ---
 
 ## 📊 Executive Dashboard Preview
-<a href="[https://github.com/user-attachments/assets/18b2c54e-16f9-48ad-9346-0e319aaa4209](https://github.com/user-attachments/assets/18b2c54e-16f9-48ad-9346-0e319aaa4209)">
-  <img src="[https://github.com/user-attachments/assets/18b2c54e-16f9-48ad-9346-0e319aaa4209](https://github.com/user-attachments/assets/18b2c54e-16f9-48ad-9346-0e319aaa4209)" alt="Mobile Sales Dashboard Preview" width="100%">
-</a>
-
+![Mobile Sales Dashboard Preview](https://github.com/user-attachments/assets/18b2c54e-16f9-48ad-9346-0e319aaa4209)
 ---
 
 ## 🔑 Key Features & Insights
