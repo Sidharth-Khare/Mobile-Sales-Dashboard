@@ -26,7 +26,6 @@ This Power BI dashboard provides a detailed analysis of mobile device sales, rev
 * **Peak Sales Period:** Specific days aur months me sales me spike dekha gaya hai.
 
 ---
-
 ## 🧮 Sample DAX Measures
 
 ```dax
@@ -52,3 +51,9 @@ The data model uses a Star Schema design consisting of:
 1. Download the **`Mobile_Sales_Report.pbix`** file from this repository.
 2. Open the file in **Power BI Desktop** (Free to download from Microsoft).
 3. Interact with the filters, slicers, and visuals!
+
+
+📬 Contact & Connect
+LinkedIn: Sidharth Khare
+
+GitHub: Sidharth-Khare
