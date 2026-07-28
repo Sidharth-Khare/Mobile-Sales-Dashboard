@@ -4,7 +4,14 @@
 
 ## 📌 Project Overview
 This Power BI dashboard provides a detailed analysis of mobile device sales, revenue trends, customer segments, and regional performance. The goal of this project is to turn raw sales transactional data into actionable business insights to aid strategic decision-making.
+---
 
+## 📁 Dataset Summary
+* **Records:** 3,835 Transactional Rows
+* **Time Period:** October 2021 – 2024
+* **Key Fields:** Transaction ID, Date (Day/Month/Year), Brand, Mobile Model, Units Sold, Price Per Unit, Customer Details (Age, City), Payment Method, Ratings.
+* **Top Covered Brands (5):** Apple, Samsung, OnePlus, Vivo, Xiaomi
+* **Markets Analyzed:** 19 Major Cities across India
 ---
 
 ## 📊 Executive Dashboard Preview
